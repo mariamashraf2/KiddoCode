@@ -1,11 +1,11 @@
-#***KiddoCode***
-Our app teaches kids programming in a fun way through games, stories, and interactive challenges. It turns learning to code into an exciting adventure that builds logic, creativity, and problem-solving skills.
+# KiddoCode
+##### Our app teaches kids programming in a fun way through games, stories, and interactive challenges. It turns learning to code into an exciting adventure that builds logic, creativity, and problem-solving skills.
 ---
 ## Project Idea
-The project aims to simplify coding concepts for kids by transforming complex programming logic into engaging, age-appropriate activities, while providing a safe and motivating learning environment for both children and parents.
+##### The project aims to simplify coding concepts for kids by transforming complex programming logic into engaging, age-appropriate activities, while providing a safe and motivating learning environment for both children and parents.
 ---
 ## Team name:
- PIXI
+ ##### PIXI
  ---
 ## Team members:
 - Mariam Ashraf Mohamed
@@ -13,7 +13,7 @@ The project aims to simplify coding concepts for kids by transforming complex pr
 - Rahma Ehab Fayek
 - Fatma elmorsy elgedawy
 - Ghram Arafa Mosaad Saad
-- Hager Sami Abd Elsattar
+-  Hager Sami Abd Elsattar
   ---
 ## Work Plan
 ### UX Design
@@ -32,7 +32,7 @@ The project aims to simplify coding concepts for kids by transforming complex pr
 - User Journey Map
 - Card Sorting
 - Sitemap
-- User Flow
+-  User Flow
   ---
 ## Roles and Responsibilities
 ### UX
@@ -57,10 +57,10 @@ The project aims to simplify coding concepts for kids by transforming complex pr
 - Card Sorting
 ### Hager Sami
 - Sitemap
-- User Flow
+-  User Flow
   ---
 ## instructor:
-Eng/Mohamed Kamar
+##### Eng/Mohamed Kamar
   ---
 ## Drive link:
-(https://drive.google.com/drive/folders/1uvskkA924IQGB9fBJgLyLonGq_9kDJFp?usp=drive_link)[Drive Link]
+(https://drive.google.com/drive/folders/1uvskkA924IQGB9fBJgLyLonGq_9kDJFp?usp=drive_link)[DriveLink]
