@@ -64,3 +64,6 @@
   ---
 ## Drive link:
 (https://drive.google.com/drive/folders/1uvskkA924IQGB9fBJgLyLonGq_9kDJFp?usp=drive_link)[DriveLink]
+---
+## Figma link:
+(https://www.figma.com/team_invite/redeem/kTFQQW8HDnugKE3YpXOCh2?t=YPZ9e3LjV0p1vOqM-21)[FigmaLink]
